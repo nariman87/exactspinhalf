@@ -1,5 +1,5 @@
 # ED-spinhalf
-An exact diagonalization Matlab toolkit for spin-1/2 systems
+An exact diagonalization Matlab toolkit for studying spin-1/2 chains
 
 # Copyrights and licensing 
 Copyright (c) Seyed Nariman Saadatmand 2014-2017 All Rights Reserved. 
