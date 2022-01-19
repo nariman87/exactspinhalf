@@ -26,7 +26,7 @@
 
 
 
-function [STATES, U_H, H_diag] = ED_SpinHalf_EScolumns_HeisenbergChains(N, TolE, q, BuiltinSym, lanczos, n_eig, BC, MomentumStates, J_Sz, J_Szz, J_SS, J_3N, J_4N, J_LR, alpha)
+function [STATES, U_H, H_diag] = exactspinhalf(N, TolE, q, BuiltinSym, lanczos, n_eig, BC, MomentumStates, J_Sz, J_Szz, J_SS, J_3N, J_4N, J_LR, alpha)
 
 %%% Program inputs description:
 % [...]   	...
